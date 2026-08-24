@@ -10,14 +10,14 @@
     <Platform Name="Win64-arm64ec" />
   </Configurations>
   <Folder Name="/Engine/">
-    <Project Path="Intermediate/ProjectFiles/UE5.vcxproj" Id="51ab8b86-43cc-32a1-aab0-c3b01183e618">
+    <Project Path="Intermediate/ProjectFiles/UE5.vcxproj" Id="b925539f-6f6c-3412-919d-9df203a4377a">
       <BuildType Project="BuiltWithUnrealBuildTool" />
       <Platform Project="Win64" />
       <Build Project="false" />
     </Project>
   </Folder>
   <Folder Name="/Games/">
-    <Project Path="Intermediate/ProjectFiles/RustTest.vcxproj" Id="d12b157e-bd62-3564-a397-8a666cc7d612">
+    <Project Path="Intermediate/ProjectFiles/RustTest.vcxproj" Id="a4cc71cf-99a2-334b-a4c7-d4692c8ccad1">
       <BuildType Solution="DebugGame Editor|Win64" Project="DebugGame_Editor" />
       <BuildType Solution="DebugGame Editor|Win64-arm64" Project="Win64_arm64_DebugGame_Editor" />
       <BuildType Solution="DebugGame Editor|Win64-arm64ec" Project="Win64_arm64ec_DebugGame_Editor" />
