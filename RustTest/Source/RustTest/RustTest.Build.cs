@@ -25,6 +25,7 @@ public class RustTest : ModuleRules
 
 		PublicIncludePaths.AddRange(new string[] {
 			"RustTest",
+			"RustTest/Player",
 			"RustTest/Variant_Platforming",
 			"RustTest/Variant_Platforming/Animation",
 			"RustTest/Variant_Combat",
